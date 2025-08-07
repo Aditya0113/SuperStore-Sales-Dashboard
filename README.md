@@ -1,6 +1,7 @@
 # SuperStore-Sales-Dashboard
 
 Dataset Used: SuperStore Sales Data
+
 Tool Used: Power BI
 
 🔧 Dashboard Features Implemented:
